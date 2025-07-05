@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.businessvalue.bsvhr",
+    "sha256_cert_fingerprints":
+    ["E7:C4:9A:E8:C9:3A:5D:89:CF:96:30:5B:F6:FB:A5:83:1C:C8:AF:CA:91:FB:98:4F:82:2F:78:77:D4:BB:D9:29"]
+  }
+}]
